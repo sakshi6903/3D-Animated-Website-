@@ -13,3 +13,5 @@ Key Features:
 🕹️ JavaScript Empowers Motion: The true magic unfolds through JavaScript, the conductor orchestrating movement, rotation, and even facial expressions for our beloved character, the Korean guy. As users scroll, he springs to life, captivating hearts with his lifelike gestures.
 
 Integrated Development with Visual Studio Code
+
+Live Preview:https://sakshi6903.github.io/3D-Animated-Website-/
